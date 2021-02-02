@@ -27,4 +27,4 @@ I'm curious and interested in the interface between humans and technology, and h
 
 ## What I've been exploring recently
 
-Machine learning, particularly natural language processing, and brain computer interfaces (super cool, checkout [Neurosity](https://neurosity.co/)).
+Machine learning, particularly natural language processing, and brain computer interfaces (super cool, checkout [Neurosity](https://neurosity.co/) tech).
